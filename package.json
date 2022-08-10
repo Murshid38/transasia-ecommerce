@@ -1,0 +1,20 @@
+{
+  "name": "transasia-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/sass.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murshid38/transasia-ecommerce.git"
+  },
+  "author": "Murshid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murshid38/transasia-ecommerce/issues"
+  },
+  "homepage": "https://github.com/Murshid38/transasia-ecommerce#readme"
+}

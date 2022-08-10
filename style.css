@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap"); /* Color variables */
+/* Color variables */
+/* global classes */
+button,
+button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Sass Template */
+
+/*# sourceMappingURL=style.css.map */
